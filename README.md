@@ -16,3 +16,7 @@
 ### Tela de cadastro do usuário
 
 ![Imagem tela de cadastro do usuário](https://github.com/edivam691/Aprendendo-java/blob/main/tela_cadastro_usuario.png)
+
+### Tela de cadastro de ordem de serviço
+
+![Imagem tela de cadastro de orden de serviço](https://github.com/edivam691/Aprendendo-java/blob/main/tela_cadastro_os.png)
