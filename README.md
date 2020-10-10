@@ -9,6 +9,10 @@
 
 ![imagem tela principal](https://github.com/edivam691/Aprendendo-java/blob/main/tela_principal.png)
 
-### Tela de cadastro de cliente
+### Tela de cadastro do cliente
 
-![Tela de cadastro de cliente](https://github.com/edivam691/Aprendendo-java/blob/main/tela_cadastro_cliente.png)
+![Imagem tela de cadastro de cliente](https://github.com/edivam691/Aprendendo-java/blob/main/tela_cadastro_cliente.png)
+
+### Tela de cadastro do usuário
+
+![Imagem tela de cadastro do usuário]()
