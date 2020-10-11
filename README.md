@@ -29,7 +29,7 @@
 
 ![Imagem tela de emissão de orden de serviço](https://github.com/edivam691/Aprendendo-java/blob/main/tela_de_emissao_de_os.png)
 
-Ferramentas:
+Ferramentas utilizadas:
 * netbeans
 * MySQL
 * TIBCO jaspersoft Studio
