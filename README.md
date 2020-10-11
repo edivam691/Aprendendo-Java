@@ -33,3 +33,4 @@ Ferramentas:
 * netbeans
 * MySQL
 * TIBCO jaspersoft Studio
+* java Swing
