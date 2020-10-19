@@ -3,7 +3,7 @@
 ## Projeto desenvolvido do curso -- Java MySQL - Sistema Completo -- com o Professor José de Assis.
 
 ### Projeto desenvolvido sob orientação do professor José de assis. Sistema de controle de  orden de serviço.
-##
+***
 
 Este curso me ajudou a entender melhor conceitos sobre **ORIENTAÇÃO OBJETO E MySQL**. 
 Já que o desenvolvimento de um sistema do zero ajuda a consolidar conhecimentos. Conhecimentos adquiridos em cursos anteriores: **Java para iniciantes, Poo em Java, Banco de Dados Msql** do canal: [Curso em Video-Professor Gustavo Guanabara](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) e também **Curso de Java Módulo 2:Intermediário, Estrutura de Dados e Algoritmos com Java** do canal: [Loiane-Groner ](https://www.youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg)
