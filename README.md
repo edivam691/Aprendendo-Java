@@ -6,7 +6,7 @@
 ##
 
 Este curso me ajudou a entender melhor conceitos sobre **ORIENTAÇÃO OBJETO E MySQL**. 
-Já que o desenvolvimento de um sistema do zero ajuda a consolidar conhecimentos. Conhecimentos adquiridos em cursos anteriores: **Java para iniciantes, Poo em Java, Banco de Dados Msql** os três do canal: [Curso em Video](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) e também **Curso de Java Módulo 2:Intermediário, Estrutura de Dados e Algoritmos com Java** do canal: [Loiane-Groner ](https://www.youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg)
+Já que o desenvolvimento de um sistema do zero ajuda a consolidar conhecimentos. Conhecimentos adquiridos em cursos anteriores: **Java para iniciantes, Poo em Java, Banco de Dados Msql** do canal: [Curso em Video - Professor Gustavo Guanabara](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) e também **Curso de Java Módulo 2:Intermediário, Estrutura de Dados e Algoritmos com Java** do canal: [Loiane-Groner ](https://www.youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg)
 
 ### Tela principal do sistema
 
@@ -38,4 +38,4 @@ Ferramentas utilizadas:
 * TIBCO jaspersoft Studio
 * java Swing
 
-Canal [Professor José de Assis](https://www.youtube.com/channel/UCySbdH4Tt_l5W4gQJrNqm-Q)
+Canal: [Professor José de Assis](https://www.youtube.com/channel/UCySbdH4Tt_l5W4gQJrNqm-Q)
