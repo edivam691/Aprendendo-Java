@@ -38,4 +38,5 @@ Ferramentas utilizadas:
 * TIBCO jaspersoft Studio
 * java Swing
 
-Canal: [Professor José de Assis](https://www.youtube.com/channel/UCySbdH4Tt_l5W4gQJrNqm-Q)
+Acesse:
+* Canal: [Professor José de Assis](https://www.youtube.com/channel/UCySbdH4Tt_l5W4gQJrNqm-Q)
