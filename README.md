@@ -2,7 +2,7 @@
 
 ## Projeto desenvolvido do curso -- Java MySQL - Sistema Completo -- com o Professor José de Assis.
 
-### Projeto desenvolvido sob orientação do professor José de assis. Sistema de controle de  orden de serviço.
+### Projeto desenvolvido sob orientação do professor José de assis. Sistema de controle de  ordem de serviço.
 ***
 
 Este curso me ajudou a entender melhor conceitos sobre **ORIENTAÇÃO OBJETO E MySQL**. 
